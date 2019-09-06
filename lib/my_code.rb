@@ -9,5 +9,5 @@ return new_array
 end
 
 map_to_no_change(source_array)
-  ["Vic", "CJ", "James", "Teddy"]
+  ["Vic", "CJ", "James", "Teddy", "Cortez"]
 end
