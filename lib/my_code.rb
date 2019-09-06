@@ -65,7 +65,9 @@ while counter < source_array.size do
     return true
   end
   counter += 1
-  
+end
+return false
+end
   
 
 
