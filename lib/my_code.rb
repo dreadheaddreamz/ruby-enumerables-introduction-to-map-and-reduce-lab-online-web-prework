@@ -10,7 +10,7 @@ end
 
 def map_to_no_change(source_array)
   ["Vic", "CJ", "James", "Teddy", "Cortez"]
-end
+  end
 
 def map_to_double(source_array)
   counter = 0 
