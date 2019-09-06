@@ -32,7 +32,16 @@ def map_to_square(source_array)
   return new_array
 end
 
+def reduce_to_total(source_array,starting_point = 0)
+  source_array = source_array.sum
+  while starting_point == 100 do
+    return source_array + starting_point
+  end
+  return source_array
+end
 
+def reduce_to_all_true(source_array)
+  
 
 
 
