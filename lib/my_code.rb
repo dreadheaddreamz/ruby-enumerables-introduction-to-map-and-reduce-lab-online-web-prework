@@ -15,7 +15,7 @@ def map_to_no_change(source_array)
     new_array << source_array[counter]
     counter += 1
   end
-  return new_array
+  new_array
 end
     
   end
