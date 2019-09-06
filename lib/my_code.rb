@@ -58,6 +58,11 @@ def reduce_to_all_true(source_array)
   return true
 end
 
+reduce_to_any_true(source_array)
+counter = 0
+while counter != source_array.size do
+  
+
 
 
 
