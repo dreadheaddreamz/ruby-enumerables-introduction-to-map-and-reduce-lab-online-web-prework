@@ -1,2 +1,3 @@
-def map_to_negativize(s
+def map_to_negativize(source_array)
+  counter = 0 
   
