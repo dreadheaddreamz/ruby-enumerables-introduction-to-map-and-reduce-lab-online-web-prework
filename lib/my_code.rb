@@ -11,3 +11,13 @@ end
 def map_to_no_change(source_array)
   ["Vic", "CJ", "James", "Teddy", "Cortez"]
 end
+
+def map_to_double(source_array)
+  counter = 2 
+  new_array = []
+  while source_array[counter] do
+    new_array << source_array[counter] *2 
+    counter += 2 
+  end
+  return new_array
+end
