@@ -17,8 +17,6 @@ end
   end
   new_array
  end
-    
-  end
 
 def map_to_double(source_array)
   counter = 0 
